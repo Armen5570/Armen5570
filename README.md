@@ -1,10 +1,11 @@
 ## Hi there 👋
-
 <div align="center">
 
 <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_T-Rex_Runner.gif"
-     width="60%"
+     width="50%"
+     style="border-radius: 15px;"
      alt="T-Rex Runner Animation">
+
 </div>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-32363F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
