@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# 🦖 Welcome to my GitHub!
-
 ![Chrome Dino Animation](https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/t-rex-runner-19janil.gif)
 
 </div>
