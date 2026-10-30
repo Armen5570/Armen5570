@@ -2,8 +2,9 @@
 
 <div align="center">
 
-![Chrome Dino Animation](https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/t-rex-runner-19janil.gif)
-
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_T-Rex_Runner.gif"
+     width="100%"
+     alt="T-Rex Runner Animation">
 </div>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-32363F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
