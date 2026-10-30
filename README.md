@@ -3,7 +3,7 @@
 
 <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_T-Rex_Runner.gif"
      width="50%"
-     style="border-radius: 15px;"
+     style="border-radius: 50px;"
      alt="T-Rex Runner Animation">
 
 </div>
