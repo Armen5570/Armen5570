@@ -3,7 +3,7 @@
 <div align="center">
 
 <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_T-Rex_Runner.gif"
-     width="100%"
+     width="60%"
      alt="T-Rex Runner Animation">
 </div>
 
