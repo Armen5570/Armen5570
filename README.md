@@ -1,49 +1,36 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:09090B,40:312E81,100:0891B2&text=ARMEN%20HARUTYUNYAN&fontSize=43&fontColor=FFFFFF&fontAlignY=42&desc=WEB%20DEVELOPER%20%7C%20BACKEND%20DEVELOPER&descSize=17&descColor=67E8F9&descAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0F0C&height=230&section=header&text=ARMEN&fontSize=100&fontColor=D6FF62&fontAlignY=45&desc=WEB%20%2F%20BACKEND%20DEVELOPER&descSize=17&descColor=FFFFFF&descAlignY=75&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Designing+Modern+Web+Experiences;Developing+Powerful+Backend+Systems;Building+Creative+Digital+Projects;Turning+Ideas+Into+Working+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=15&duration=3000&pause=1000&color=D6FF62&center=true&vCenter=true&width=600&lines=I+BUILD+THINGS+THAT+WORK.;FRONTEND+MEETS+BACKEND.;IDEAS+INTO+REALITY." />
 
 <br/><br/>
 
-<a href="https://github.com/Armen5570">
-<img src="https://img.shields.io/badge/GITHUB-ARMEN5570-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/ROLE-WEB%20%26%20BACKEND-0891B2?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=Armen5570&style=for-the-badge&color=8B5CF6&label=VISITORS"/>
+`ARMEN5570` &nbsp; / &nbsp; `ARMENIA` 🇦🇲 &nbsp; / &nbsp; `DEVELOPER`
 
 </div>
 
 ---
 
-<div align="center">
-
-# `01` — WHO AM I?
-
-</div>
-
 <table>
 <tr>
 <td width="65%" valign="top">
 
-### Hello, I'm Armen 👋
+### THE PERSON BEHIND THE CODE
 
-I'm a **Web Developer & Backend Developer** from Armenia 🇦🇲
+# Not just writing code.
+# Building experiences.
 
-I enjoy building modern websites, developing backend systems, creating interactive applications and exploring new technologies.
+I'm Armen — a Web Developer and Backend Developer interested in creating modern digital products.
 
-My passion is turning creative ideas into functional digital products.
+I work with frontend technologies, explore backend architecture, and enjoy turning ideas into real applications.
 
-- 🌐 Web Development
-- ⚙️ Backend Development
-- 🗄️ Database Management
-- 🎮 Interactive Applications
-- 🚀 Always learning and building
+My approach is simple: understand the problem, design the solution, build it, improve it.
 
 </td>
-<td width="35%" align="center">
+<td width="35%" valign="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,git,github,vscode&perline=3" />
 
@@ -55,29 +42,7 @@ My passion is turning creative ideas into functional digital products.
 
 <div align="center">
 
-# `02` — DEVELOPMENT STACK
-
-### FRONTEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
-
-### BACKEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb&theme=dark" />
-
-### DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-# `03` — FEATURED PROJECTS
-
-*Some things I've built.*
+## 01 — WHAT I BUILD
 
 </div>
 
@@ -85,40 +50,28 @@ My passion is turning creative ideas into functional digital products.
 <tr>
 <td width="50%" valign="top">
 
-### 🐰 Rabbit Game
+### ◈ FRONTEND
 
-An interactive game development project.
+**The visual experience.**
 
-[VIEW PROJECT →](https://github.com/Armen5570/Rabbit-Game)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧊 Rubiks Cube 3D
-
-A 3D Rubik's Cube programming project.
-
-[VIEW PROJECT →](https://github.com/Armen5570/Rubiks-Cube-3D)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 Taxes & Utilities
-
-A utility and calculation project.
-
-[VIEW PROJECT →](https://github.com/Armen5570/Taxes_Utilities.)
+- Modern websites
+- Interactive interfaces
+- Responsive layouts
+- Animations & UI
+- JavaScript applications
 
 </td>
 <td width="50%" valign="top">
 
-### 🧮 CALC
+### ◈ BACKEND
 
-A calculator built as a web development project.
+**The logic behind everything.**
 
-[VIEW PROJECT →](https://github.com/Armen5570/CALC)
+- Server-side development
+- APIs & application logic
+- Database integration
+- Node.js applications
+- Backend fundamentals
 
 </td>
 </tr>
@@ -128,15 +81,108 @@ A calculator built as a web development project.
 
 <div align="center">
 
-# `04` — GITHUB ANALYTICS
+## 02 — MY TOOLBOX
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Armen5570&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=22D3EE&text_color=E4E4E7&rank_icon=github"/>
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armen5570&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7"/>
+<details open>
+<summary><b>01 / Frontend Technologies</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+
+</details>
+
+<details open>
+<summary><b>02 / Backend & Databases</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
+
+</details>
+
+<details>
+<summary><b>03 / Developer Tools</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+
+</details>
+
+---
+
+<div align="center">
+
+## 03 — SELECTED PROJECTS
+
+*Ideas I've turned into code.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01. RABBIT GAME
+
+An interactive game project.
+
+[EXPLORE REPOSITORY ↗](https://github.com/Armen5570/Rabbit-Game)
+
+</td>
+<td width="50%" valign="top">
+
+### 02. RUBIK'S CUBE 3D
+
+A three-dimensional programming project.
+
+[EXPLORE REPOSITORY ↗](https://github.com/Armen5570/Rubiks-Cube-3D)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03. TAXES & UTILITIES
+
+A practical utility and calculation project.
+
+[EXPLORE REPOSITORY ↗](https://github.com/Armen5570/Taxes_Utilities.)
+
+</td>
+<td width="50%" valign="top">
+
+### 04. CALC
+
+A calculator application.
+
+[EXPLORE REPOSITORY ↗](https://github.com/Armen5570/CALC)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![All Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS-D6FF62?style=for-the-badge&logo=github&logoColor=101510)](https://github.com/Armen5570?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+## 04 — GITHUB DATA
+
+*The work behind the profile.*
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Armen5570&show_icons=true&hide_border=true&bg_color=0B0F0C&title_color=D6FF62&icon_color=D6FF62&text_color=E5E7EB&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armen5570&layout=compact&hide_border=true&bg_color=0B0F0C&title_color=D6FF62&text_color=E5E7EB"/>
 
 <br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=Armen5570&theme=transparent&hide_border=true&background=09090B&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=9CA3AF"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=Armen5570&hide_border=true&background=0B0F0C&ring=D6FF62&fire=FF9F43&currStreakLabel=D6FF62&sideLabels=FFFFFF&dates=8B949E"/>
 
 </div>
 
@@ -144,43 +190,43 @@ A calculator built as a web development project.
 
 <div align="center">
 
-# `05` — CONTRIBUTION GRAPH
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Armen5570&bg_color=09090B&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+## 05 — THE DEVELOPER MINDSET
 
 </div>
-
----
-
-<div align="center">
-
-### `06` — MY DEVELOPER MINDSET
 
 ```javascript
 const armen = {
-    name: "Armen Harutyunyan",
     username: "Armen5570",
-    country: "Armenia 🇦🇲",
+    location: "Armenia 🇦🇲",
 
-    profession: [
+    roles: [
         "Web Developer",
         "Backend Developer"
     ],
 
-    technologies: [
-        "HTML", "CSS", "JavaScript",
-        "TypeScript", "React",
-        "Node.js", "Express", "MongoDB"
+    learning: [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Python"
     ],
 
-    mindset: "Build. Learn. Improve."
+    philosophy: "Build with purpose."
 };
 ```
 
+---
+
+<div align="center">
+
+### LESS TALK. MORE BUILDING.
+
+**Thanks for exploring my digital workspace.**
+
 <br/>
 
-### BUILDING THE FUTURE, ONE LINE AT A TIME.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F0C&height=100&section=footer&text=END_OF_FILE&fontSize=24&fontColor=D6FF62&fontAlignY=55"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:09090B&height=130&section=footer"/>
+<sub>DESIGNED & BUILT BY ARMEN5570 · 2026</sub>
 
 </div>
