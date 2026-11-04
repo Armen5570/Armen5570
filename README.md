@@ -2,21 +2,18 @@
 
 <div align="center">
 
-
-
-  <br>
-
-  <img
+  <img 
     src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=WEB+%2F+BACKEND+DEVELOPMENT"
     alt="WEB / BACKEND DEVELOPMENT"
   />
 
-</div>
+  <br><br>
 
-<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_T-Rex_Runner.gif"
-     width="50%"
-     style="border-radius: 100%;"
-     alt="T-Rex Runner Animation">
+  <img 
+    src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_T-Rex_Runner.gif"
+    width="50%"
+    alt="T-Rex Runner Animation"
+  />
 
 </div>
 
@@ -31,6 +28,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
