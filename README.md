@@ -7,7 +7,7 @@
     alt="WEB / BACKEND DEVELOPMENT"
   />
 
-  <br><br>
+
 
   <img
     class="plus"
