@@ -1,43 +1,51 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=ARMEN.&fontSize=75&fontColor=58A6FF&fontAlignY=48&desc=SOFTWARE%20DEVELOPER%20%2F%20CREATOR&descSize=13&descColor=8B949E&descAlignY=75" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:09090B,40:312E81,100:0891B2&text=ARMEN%20HARUTYUNYAN&fontSize=43&fontColor=FFFFFF&fontAlignY=42&desc=WEB%20DEVELOPER%20%7C%20BACKEND%20DEVELOPER&descSize=17&descColor=67E8F9&descAlignY=65&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Learning.+Creating.+Improving.;Turning+ideas+into+real+projects." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Designing+Modern+Web+Experiences;Developing+Powerful+Backend+Systems;Building+Creative+Digital+Projects;Turning+Ideas+Into+Working+Applications"/>
 
-<br/>
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Armen5570)
-[![Repositories](https://img.shields.io/badge/PROJECTS-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/Armen5570?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=Armen5570&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/Armen5570)
+<a href="https://github.com/Armen5570">
+<img src="https://img.shields.io/badge/GITHUB-ARMEN5570-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/ROLE-WEB%20%26%20BACKEND-0891B2?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Armen5570&style=for-the-badge&color=8B5CF6&label=VISITORS"/>
 
 </div>
 
 ---
 
+<div align="center">
+
+# `01` — WHO AM I?
+
+</div>
+
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-### 01 / INTRODUCTION
+### Hello, I'm Armen 👋
 
-# Hello, I'm Armen.
+I'm a **Web Developer & Backend Developer** from Armenia 🇦🇲
 
-I'm a developer from Armenia 🇦🇲 who enjoys building websites, experimenting with code and creating interactive experiences.
+I enjoy building modern websites, developing backend systems, creating interactive applications and exploring new technologies.
 
-I believe every great project starts with a simple idea.
+My passion is turning creative ideas into functional digital products.
 
-**Currently focused on:**
-- Frontend Development
-- Backend Development
-- TypeScript & JavaScript
-- Game Development
+- 🌐 Web Development
+- ⚙️ Backend Development
+- 🗄️ Database Management
+- 🎮 Interactive Applications
+- 🚀 Always learning and building
 
 </td>
-<td width="40%" valign="center">
+<td width="35%" align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mongodb,git,github,vscode,postman&perline=3" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,git,github,vscode&perline=3" />
 
 </td>
 </tr>
@@ -45,101 +53,134 @@ I believe every great project starts with a simple idea.
 
 ---
 
-### 02 / TECHNOLOGY STACK
-
-| Category | Technologies |
-|:---|:---|
-| Frontend | HTML5 · CSS3 · JavaScript |
-| Frameworks | React · TypeScript |
-| Backend | Node.js · Express |
-| Database | MongoDB |
-| Programming | Python |
-| Tools | Git · GitHub · VS Code · Postman |
-
----
-
-### 03 / SELECTED WORKS
-
 <div align="center">
 
-<a href="https://github.com/Armen5570/Rabbit-Game">
-<img src="https://img.shields.io/badge/01-RABBIT_GAME-161B22?style=for-the-badge&labelColor=0D1117&color=58A6FF"/>
-</a>
+# `02` — DEVELOPMENT STACK
 
-<a href="https://github.com/Armen5570/Rubiks-Cube-3D">
-<img src="https://img.shields.io/badge/02-RUBIKS_CUBE_3D-161B22?style=for-the-badge&labelColor=0D1117&color=58A6FF"/>
-</a>
+### FRONTEND DEVELOPMENT
 
-<a href="https://github.com/Armen5570/Taxes_Utilities.">
-<img src="https://img.shields.io/badge/03-TAXES_&_UTILITIES-161B22?style=for-the-badge&labelColor=0D1117&color=58A6FF"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
 
-<a href="https://github.com/Armen5570/CALC">
-<img src="https://img.shields.io/badge/04-CALC-161B22?style=for-the-badge&labelColor=0D1117&color=58A6FF"/>
-</a>
+### BACKEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb&theme=dark" />
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
 
 </div>
 
 ---
 
-### 04 / GITHUB ANALYTICS
+<div align="center">
+
+# `03` — FEATURED PROJECTS
+
+*Some things I've built.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐰 Rabbit Game
+
+An interactive game development project.
+
+[VIEW PROJECT →](https://github.com/Armen5570/Rabbit-Game)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧊 Rubiks Cube 3D
+
+A 3D Rubik's Cube programming project.
+
+[VIEW PROJECT →](https://github.com/Armen5570/Rubiks-Cube-3D)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Taxes & Utilities
+
+A utility and calculation project.
+
+[VIEW PROJECT →](https://github.com/Armen5570/Taxes_Utilities.)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 CALC
+
+A calculator built as a web development project.
+
+[VIEW PROJECT →](https://github.com/Armen5570/CALC)
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Armen5570&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"/>
+# `04` — GITHUB ANALYTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armen5570&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Armen5570&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=22D3EE&text_color=E4E4E7&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armen5570&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Armen5570&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=Armen5570&theme=transparent&hide_border=true&background=09090B&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=9CA3AF"/>
 
 </div>
 
 ---
 
-### 05 / CURRENTLY LEARNING
+<div align="center">
+
+# `05` — CONTRIBUTION GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Armen5570&bg_color=09090B&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `06` — MY DEVELOPER MINDSET
 
 ```javascript
-const developer = {
+const armen = {
     name: "Armen Harutyunyan",
     username: "Armen5570",
+    country: "Armenia 🇦🇲",
 
-    learning: [
-        "TypeScript",
-        "React",
-        "Node.js",
-        "Python"
+    profession: [
+        "Web Developer",
+        "Backend Developer"
     ],
 
-    interests: [
-        "Web Development",
-        "Game Development",
-        "Creative Coding"
+    technologies: [
+        "HTML", "CSS", "JavaScript",
+        "TypeScript", "React",
+        "Node.js", "Express", "MongoDB"
     ],
 
-    mindset: "Never stop learning."
+    mindset: "Build. Learn. Improve."
 };
-
-console.log("Let's build something amazing!");
 ```
 
----
+<br/>
 
-### 06 / CONTRIBUTION ACTIVITY
+### BUILDING THE FUTURE, ONE LINE AT A TIME.
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Armen5570&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### KEEP BUILDING. KEEP EXPLORING.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=65&section=footer&text=ARMEN%20%2F%20DEVELOPER&fontColor=58A6FF&fontSize=18&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:09090B&height=130&section=footer"/>
 
 </div>
