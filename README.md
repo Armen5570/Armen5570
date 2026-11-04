@@ -2,13 +2,15 @@
 
 <div align="center">
 
-  <img 
+  <img
     src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=WEB+%2F+BACKEND+DEVELOPMENT"
     alt="WEB / BACKEND DEVELOPMENT"
   />
 
+  <br><br>
 
-  <img 
+  <img
+    class="plus"
     src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_T-Rex_Runner.gif"
     width="50%"
     alt="T-Rex Runner Animation"
