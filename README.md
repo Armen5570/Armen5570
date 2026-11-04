@@ -1,54 +1,61 @@
 
 <div align="center">
 
-```text
-    _    ____  __  __ _____ _   _
-   / \  |  _ \|  \/  | ____| \ | |
-  / _ \ | |_) | |\/| |  _| |  \| |
- / ___ \|  _ <| |  | | |___| |\  |
-/_/   \_\_| \_\_|  |_|_____|_| \_|
+<img src="./banner.png" width="100%" />
 
-        [ ARMEN HARUTYUNYAN ]
-       WEB DEVELOPER / BACKEND
-```
+<br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=flat-square&labelColor=101820"/>
-<img src="https://img.shields.io/badge/LOCATION-ARMENIA-00c8ff?style=flat-square&labelColor=101820"/>
-<img src="https://img.shields.io/badge/USER-Armen5570-9b8cff?style=flat-square&labelColor=101820"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5B8&center=true&vCenter=true&width=650&lines=ARMEN+HARUTYUNYAN;WEB+DEVELOPER;BACKEND+DEVELOPER;WELCOME+TO+MY+PROFILE" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/USER-Armen5570-00F5B8?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/LOCATION-ARMENIA-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-CODING-00D9FF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-### `root@armen:~$ whoami`
+<div align="center">
+
+### ▰ SYSTEM TERMINAL ▰
+
+</div>
+
+```yaml
+┌───[ ARMEN@GITHUB ]─────────────────────────┐
+│                                            │
+│  $ whoami                                  │
+│  Armen Harutyunyan                         │
+│                                            │
+│  $ role                                    │
+│  Web Developer / Backend Developer        │
+│                                            │
+│  $ location                                │
+│  Armenia 🇦🇲                               │
+│                                            │
+│  $ mission                                 │
+│  Build. Create. Learn. Repeat.             │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+### `01 / ABOUT ME`
 
 ```bash
-Name       : Armen Harutyunyan
-Username   : Armen5570
-Role       : Web Developer
-             Backend Developer
-Country    : Armenia
-Interests  : Programming, Web Development,
-             Backend Systems, Creative Projects
-Status     : Always learning and building
+> Hello, World!
+
+I'm Armen — a developer interested in building
+modern websites, applications and creative projects.
+
+I enjoy experimenting with technology,
+learning new skills and bringing ideas to life.
+
+> Currently: Learning & Building
 ```
 
-### `root@armen:~$ cat about.txt`
-
-```text
-Hello, world!
-
-I'm Armen, a developer who enjoys creating
-websites, applications and interactive projects.
-
-I like exploring new technologies, solving
-problems and turning ideas into real projects.
-
-My goal is to keep learning and build better
-things with every new project.
-```
-
-### `root@armen:~$ ls ./technologies`
+### `02 / TECH STACK`
 
 <div align="center">
 
@@ -56,47 +63,62 @@ things with every new project.
 
 </div>
 
-### `root@armen:~$ ls ./projects`
-
-| PROJECT | DESCRIPTION | SOURCE |
-|:---|:---|:---:|
-| Rubiks Cube 3D | 3D Rubik's Cube project | [OPEN](https://github.com/Armen5570/Rubiks-Cube-3D) |
-| Rabbit Game | Interactive game project | [OPEN](https://github.com/Armen5570/Rabbit-Game) |
-| CALC | Calculator project | [OPEN](https://github.com/Armen5570/CALC) |
-| Taxes Utilities | Utility calculator project | [OPEN](https://github.com/Armen5570/Taxes_Utilities.) |
-
-### `root@armen:~$ git status`
-
-```bash
-Username       Armen5570
-Platform       GitHub
-Learning       ACTIVE
-Building       ACTIVE
-Experimenting  ACTIVE
-
-[####################] 100% MOTIVATION
-```
-
-### `root@armen:~$ ./connect.sh`
+### `03 / PROJECT DATABASE`
 
 <div align="center">
 
-<a href="https://github.com/Armen5570">
-<img src="https://img.shields.io/badge/GITHUB-ARMEN5570-00ff9c?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="https://github.com/Armen5570/Rubiks-Cube-3D">
+<img src="https://img.shields.io/badge/01-RUBIKS%20CUBE%203D-00F5B8?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<br/><br/>
+<a href="https://github.com/Armen5570/Rabbit-Game">
+<img src="https://img.shields.io/badge/02-RABBIT%20GAME-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Armen5570/CALC">
+<img src="https://img.shields.io/badge/03-CALCULATOR-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Armen5570/Taxes_Utilities.">
+<img src="https://img.shields.io/badge/04-TAXES%20UTILITIES-FF8C42?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+### `04 / GITHUB TERMINAL`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Armen5570&show_icons=true&theme=transparent&title_color=00F5B8&icon_color=8B5CF6&text_color=c9d1d9&border_color=30363d&hide_border=false" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armen5570&layout=compact&theme=transparent&title_color=00F5B8&text_color=c9d1d9&border_color=30363d" width="42%"/>
+
+</div>
+
+### `05 / ACTIVITY MONITOR`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Armen5570&bg_color=0d1117&color=00f5b8&line=8b5cf6&point=00d9ff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ```text
-+--------------------------------------+
-|  Thanks for visiting my terminal!   |
-|                                      |
-|  > Keep coding.                      |
-|  > Keep learning.                    |
-|  > Keep creating.                    |
-+--------------------------------------+
+╔══════════════════════════════════════╗
+║                                      ║
+║       SYSTEM: KEEP BUILDING          ║
+║       USER: ARMEN5570                ║
+║       STATUS: ONLINE                 ║
+║                                      ║
+╚══════════════════════════════════════╝
 ```
 
-**`SYSTEM EXIT: 0`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5B8,50:123C69,100:8B5CF6&height=120&section=footer" width="100%"/>
+
+**THANKS FOR VISITING MY PROFILE**
 
 </div>
