@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+<style>
+@keyframes anime1 {
+    50% {
+        box-shadow: 0px 0px 10px black;
+    }
+}
+
+.plus {
+    box-shadow: 0px 0px 10px aqua;
+    animation: anime1 2s infinite;
+}
+</style>
+
 <div align="center">
 
   <img
