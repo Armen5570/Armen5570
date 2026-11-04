@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="ՔՈ_ԴԻՆՈԶԱՎՐԻ_ՆԿԱՐԻ_ՀՂՈՒՄԸ" width="120" />
+
 
   <br>
 
