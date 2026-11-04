@@ -1,12 +1,16 @@
 ## Hi there 👋
 
 <div align="center">
-  <img align="left" width="100" src="ՔՈ_ԴԻՆՈԶԱՎՐԻ_ՆԿԱՐԻ_ՀՂՈՒՄԸ" />
+
+  <img src="ՔՈ_ԴԻՆՈԶԱՎՐԻ_ՆԿԱՐԻ_ՀՂՈՒՄԸ" width="120" />
+
+  <br>
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=WEB+%2F+BACKEND+DEVELOPMENT"
     alt="WEB / BACKEND DEVELOPMENT"
   />
+
 </div>
 
 <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_T-Rex_Runner.gif"
