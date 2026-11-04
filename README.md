@@ -5,57 +5,56 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5B8&center=true&vCenter=true&width=650&lines=ARMEN+HARUTYUNYAN;WEB+DEVELOPER;BACKEND+DEVELOPER;WELCOME+TO+MY+PROFILE" />
+<img src="https://github.com/Armen5570.png" width="125" />
 
-<br/>
+# ARMEN HARUTYUNYAN
 
-<img src="https://img.shields.io/badge/USER-Armen5570-00F5B8?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/LOCATION-ARMENIA-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-CODING-00D9FF?style=for-the-badge"/>
+### `WEB DEVELOPER` • `BACKEND DEVELOPER`
+
+<img src="https://img.shields.io/badge/USER-Armen5570-00F5B8?style=flat-square&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5B8?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOCATION-ARMENIA-8B5CF6?style=flat-square"/>
 
 </div>
 
 ---
 
-<div align="center">
+## `01. TERMINAL / IDENTITY`
 
-### ▰ SYSTEM TERMINAL ▰
-
-</div>
-
-```yaml
-┌───[ ARMEN@GITHUB ]─────────────────────────┐
-│                                            │
-│  $ whoami                                  │
-│  Armen Harutyunyan                         │
-│                                            │
-│  $ role                                    │
-│  Web Developer / Backend Developer        │
-│                                            │
-│  $ location                                │
-│  Armenia 🇦🇲                               │
-│                                            │
-│  $ mission                                 │
-│  Build. Create. Learn. Repeat.             │
-│                                            │
-└────────────────────────────────────────────┘
+```text
+╭──────────────────────────────────────────────────╮
+│  ● ● ●             ARMEN@GITHUB                  │
+├──────────────────────────────────────────────────┤
+│                                                  │
+│  $ whoami                                        │
+│  > Armen Harutyunyan                             │
+│                                                  │
+│  $ cat profile.json                              │
+│  > Username : Armen5570                          │
+│  > Role     : Web Developer                      │
+│  > Focus    : Backend Development                │
+│  > Country  : Armenia                            │
+│                                                  │
+│  $ echo $MISSION                                 │
+│  > LEARN / BUILD / CREATE                        │
+│                                                  │
+╰──────────────────────────────────────────────────╯
 ```
 
-### `01 / ABOUT ME`
+## `02. ABOUT / PROFILE`
 
-```bash
-> Hello, World!
+<img align="right" width="120" src="https://github.com/Armen5570.png"/>
 
-I'm Armen — a developer interested in building
-modern websites, applications and creative projects.
+Hi! I'm **Armen**, a developer interested in building websites, applications and interactive projects.
 
-I enjoy experimenting with technology,
-learning new skills and bringing ideas to life.
+- Exploring web technologies
+- Learning backend development
+- Building creative projects
+- Improving my programming skills
 
-> Currently: Learning & Building
-```
+<br clear="right"/>
 
-### `02 / TECH STACK`
+## `03. TECH STACK / INSTALLED`
 
 <div align="center">
 
@@ -63,62 +62,103 @@ learning new skills and bringing ideas to life.
 
 </div>
 
-### `03 / PROJECT DATABASE`
+## `04. PROJECTS / DATABASE`
 
 <div align="center">
+
+### ◈ RUBIK'S CUBE 3D
 
 <a href="https://github.com/Armen5570/Rubiks-Cube-3D">
-<img src="https://img.shields.io/badge/01-RUBIKS%20CUBE%203D-00F5B8?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://opengraph.githubassets.com/1/Armen5570/Rubiks-Cube-3D" width="85%"/>
 </a>
+
+**3D interactive Rubik's Cube project**
+
+[ OPEN REPOSITORY →](https://github.com/Armen5570/Rubiks-Cube-3D)
+
+---
+
+### ◈ RABBIT GAME
 
 <a href="https://github.com/Armen5570/Rabbit-Game">
-<img src="https://img.shields.io/badge/02-RABBIT%20GAME-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://opengraph.githubassets.com/1/Armen5570/Rabbit-Game" width="85%"/>
 </a>
 
-<a href="https://github.com/Armen5570/CALC">
-<img src="https://img.shields.io/badge/03-CALCULATOR-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+**Rabbit-themed platform game**
+
+[ OPEN REPOSITORY →](https://github.com/Armen5570/Rabbit-Game)
+
+---
+
+### ◈ TAXES & UTILITIES
 
 <a href="https://github.com/Armen5570/Taxes_Utilities.">
-<img src="https://img.shields.io/badge/04-TAXES%20UTILITIES-FF8C42?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://opengraph.githubassets.com/1/Armen5570/Taxes_Utilities." width="85%"/>
+</a>
+
+**Tax and utility calculation tools**
+
+[ OPEN REPOSITORY →](https://github.com/Armen5570/Taxes_Utilities.)
+
+---
+
+### ◈ RETRO HISTORY 1980
+
+<a href="https://github.com/Armen5570/Retro-History-1980">
+<img src="https://opengraph.githubassets.com/1/Armen5570/Retro-History-1980" width="85%"/>
+</a>
+
+**A retro-inspired 1980s website**
+
+[ OPEN REPOSITORY →](https://github.com/Armen5570/Retro-History-1980)
+
+---
+
+### ◈ WORLD TOUR
+
+<a href="https://github.com/Armen5570/WORLD-TOUR">
+<img src="https://opengraph.githubassets.com/1/Armen5570/WORLD-TOUR" width="85%"/>
+</a>
+
+**Interactive world exploration website**
+
+[ OPEN REPOSITORY →](https://github.com/Armen5570/WORLD-TOUR)
+
+</div>
+
+## `05. GITHUB / COMMAND CENTER`
+
+<div align="center">
+
+<a href="https://github.com/Armen5570?tab=repositories">
+<img src="https://img.shields.io/badge/ALL%20REPOSITORIES-EXPLORE-00F5B8?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Armen5570">
+<img src="https://img.shields.io/badge/PROFILE-ARMEN5570-8B5CF6?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
-### `04 / GITHUB TERMINAL`
+```bash
+[ARMEN@GITHUB ~]$ git status
 
-<div align="center">
+USER       : Armen5570
+DEVELOPER  : ACTIVE
+PROJECTS   : IN PROGRESS
+NEXT STEP  : BUILD SOMETHING NEW
 
-<img src="https://github-readme-stats.vercel.app/api?username=Armen5570&show_icons=true&theme=transparent&title_color=00F5B8&icon_color=8B5CF6&text_color=c9d1d9&border_color=30363d&hide_border=false" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armen5570&layout=compact&theme=transparent&title_color=00F5B8&text_color=c9d1d9&border_color=30363d" width="42%"/>
-
-</div>
-
-### `05 / ACTIVITY MONITOR`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Armen5570&bg_color=0d1117&color=00f5b8&line=8b5cf6&point=00d9ff&area=true&hide_border=true" width="100%"/>
-
-</div>
+[PROCESS COMPLETED]
+```
 
 ---
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║       SYSTEM: KEEP BUILDING          ║
-║       USER: ARMEN5570                ║
-║       STATUS: ONLINE                 ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5B8,50:123C69,100:8B5CF6&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5B8,50:123C69,100:8B5CF6&height=120&section=footer" width="100%"/>
+### `THANKS FOR VISITING MY PROFILE`
 
-**THANKS FOR VISITING MY PROFILE**
+**ARMEN5570 // END OF TRANSMISSION**
 
 </div>
