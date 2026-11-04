@@ -1,158 +1,78 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=101010&height=200&text=ARMEN&fontSize=95&fontColor=F5F5F5&fontAlignY=48&desc=WEB%20DEVELOPER%20%20%2F%20%20BACKEND%20DEVELOPER&descSize=15&descColor=FF9B54&descAlignY=78" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:090B1A,50:34216D,100:087EAA&text=ARMEN%20HARUTYUNYAN&fontSize=36&fontColor=FFFFFF&fontAlignY=48&desc=WEB%20DEVELOPER%20%7C%20BACKEND%20DEVELOPER&descSize=14&descAlignY=72&animation=fadeIn" width="100%" />
 
 <br/>
 
-**I CREATE. I DEVELOP. I BUILD.**
-
-[GitHub](https://github.com/Armen5570) &nbsp; • &nbsp; [Repositories](https://github.com/Armen5570?tab=repositories)
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-## About
-
-Hi, I'm **Armen Harutyunyan**.
-
-A developer from Armenia 🇦🇲 passionate about building modern web applications and developing the systems that power them.
-
-I enjoy working across the frontend and backend, exploring new technologies and transforming ideas into functional projects.
-
-**My focus:** Web Development & Backend Engineering.
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python&perline=3"/>
-
-</td>
-</tr>
-</table>
-
-## What I Do
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 01
-
-**WEB**
-
-Modern interfaces, responsive websites and interactive experiences.
-
-</td>
-<td width="33%" align="center">
-
-### 02
-
-**BACKEND**
-
-Application logic, server-side development and APIs.
-
-</td>
-<td width="33%" align="center">
-
-### 03
-
-**DATABASE**
-
-Working with data, databases and application storage.
-
-</td>
-</tr>
-</table>
-
----
-
-## Technologies
-
-<div align="center">
-
-| FRONTEND | BACKEND | TOOLS |
-|:---:|:---:|:---:|
-| HTML | Node.js | Git |
-| CSS | Express | GitHub |
-| JavaScript | Python | VS Code |
-| TypeScript | MongoDB | Postman |
-| React | | |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=8B9CFF&center=true&vCenter=true&width=600&lines=Building+ideas+with+code;Learning+%26+creating+every+day;Turning+projects+into+reality" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,git,github,vscode,postman"/>
+<a href="https://github.com/Armen5570">
+<img src="https://img.shields.io/badge/GitHub-Armen5570-171923?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## Selected Projects
+## ◈ ABOUT ME
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```js
+const armen = {
+    name: "Armen Harutyunyan",
+    username: "Armen5570",
+    role: ["Web Developer", "Backend Developer"],
+    location: "Armenia 🇦🇲",
+    focus: ["Web Development", "Backend", "Creative Projects"],
+    mindset: "Learn. Build. Improve. Repeat."
+};
+```
 
-**01 / GAME DEVELOPMENT**
+I enjoy creating interactive websites, experimenting with code, and building projects that turn ideas into something real.
 
-### Rabbit Game
-
-An interactive game project.
-
-[Explore project ↗](https://github.com/Armen5570/Rabbit-Game)
-
-</td>
-<td width="50%" valign="top">
-
-**02 / 3D DEVELOPMENT**
-
-### Rubiks Cube 3D
-
-A 3D cube programming project.
-
-[Explore project ↗](https://github.com/Armen5570/Rubiks-Cube-3D)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 / UTILITIES**
-
-### Taxes & Utilities
-
-Tax and utility calculation project.
-
-[Explore project ↗](https://github.com/Armen5570/Taxes_Utilities.)
-
-</td>
-<td width="50%" valign="top">
-
-**04 / WEB DEVELOPMENT**
-
-### CALC
-
-A calculator project.
-
-[Explore project ↗](https://github.com/Armen5570/CALC)
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Overview
+## ◈ TECHNOLOGY UNIVERSE
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Armen5570&show_icons=true&hide_border=true&bg_color=101010&title_color=FF9B54&icon_color=FF9B54&text_color=EEEEEE"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,git,github,vscode,postman&perline=7" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armen5570&layout=compact&hide_border=true&bg_color=101010&title_color=FF9B54&text_color=EEEEEE"/>
+</div>
+
+## ◈ SELECTED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/Armen5570/Rubiks-Cube-3D">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Armen5570&repo=Rubiks-Cube-3D&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Armen5570/Rabbit-Game">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Armen5570&repo=Rabbit-Game&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Armen5570/CALC">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Armen5570&repo=CALC&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Armen5570/Taxes_Utilities.">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Armen5570&repo=Taxes_Utilities.&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+## ◈ GITHUB ACTIVITY
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Armen5570&bg_color=0d1117&color=8b9cff&line=7657ff&point=00d9ff&area=true&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Armen5570&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armen5570&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -160,12 +80,10 @@ A calculator project.
 
 <div align="center">
 
-## THE NEXT LINE IS YOURS.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34216D,100:087EAA&height=100&section=footer" width="100%"/>
 
-*Always building something new.*
+**BUILD SOMETHING DIFFERENT.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,100:FF9B54&height=110&section=footer"/>
-
-**ARMEN HARUTYUNYAN · 2026**
+<sub>© Armen Harutyunyan · Armen5570</sub>
 
 </div>
