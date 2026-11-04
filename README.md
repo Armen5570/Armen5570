@@ -9,11 +9,14 @@
 
   <br><br>
 
-  <img src="./dinosaur.svg" width="50%" alt="T-Rex Runner Animation">
+  <img
+    class="plus"
+    src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_T-Rex_Runner.gif"
+    width="50%"
+    alt="T-Rex Runner Animation"
+  />
 
 </div>
-
-<br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-32363F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
