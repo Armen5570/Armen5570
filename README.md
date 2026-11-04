@@ -1,8 +1,9 @@
 ## Hi there 👋
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=FF6B9D&center=true&vCenter=true&width=650&height=60&lines=WEB+%2F+BACKEND+DEVELOPMENT" alt="WEB / BACKEND DEVELOPMENT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=000000&center=true&vCenter=true&width=650&height=60&lines=WEB+%2F+BACKEND+DEVELOPMENT" alt="WEB / BACKEND DEVELOPMENT" />
 </p>
+  
 <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_T-Rex_Runner.gif"
      width="50%"
      style="border-radius: 100%;"
