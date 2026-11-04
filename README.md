@@ -7,7 +7,6 @@
     alt="WEB / BACKEND DEVELOPMENT"
   />
 
-  <br><br>
 
   <img 
     src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_T-Rex_Runner.gif"
