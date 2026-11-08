@@ -3,7 +3,7 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=WEB+%2F+BACKEND+DEVELOPMENT"
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=WEB+%2F+BACKEND+DEVELOPER"
     alt="WEB / BACKEND DEVELOPER"
   />
 
