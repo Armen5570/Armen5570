@@ -16,11 +16,7 @@
     alt="T-Rex Runner Animation"
   />
 
-</div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,20:ff9900,40:ffff00,60:00ff00,80:0099ff,100:9900ff&height=5&section=header" width="100%">
-</p>
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 ![JavaScript](https://img.shields.io/badge/JavaScript-32363F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
