@@ -17,7 +17,9 @@
   />
 
 </div>
-<img src="https://img.shields.io/badge/-%20-ff0000?style=flat-square" /><img src="https://img.shields.io/badge/-%20-ff7f00?style=flat-square" /><img src="https://img.shields.io/badge/-%20-ffff00?style=flat-square" /><img src="https://img.shields.io/badge/-%20-00ff00?style=flat-square" /><img src="https://img.shields.io/badge/-%20-0000ff?style=flat-square" /><img src="https://img.shields.io/badge/-%20-8b00ff?style=flat-square" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=1&duration=1&pause=1&color=FF0000&width=1000&height=5&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+</p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-32363F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
