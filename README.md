@@ -25,6 +25,19 @@ I'm Armen✌️
 </p>
 
 <p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="8" viewBox="0 0 1000 8">
+    <defs>
+      <linearGradient id="rainbow">
+        <stop offset="0%" stop-color="#00C6FF"/>
+        <stop offset="50%" stop-color="#A855F7"/>
+        <stop offset="100%" stop-color="#00F5A0"/>
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="5" rx="2.5" fill="url(#rainbow)"/>
+  </svg>
+</p>
+
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/Armen5570/Armen5570/output/github-contribution-grid-snake.svg"
     width="100%"
