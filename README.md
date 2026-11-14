@@ -20,8 +20,6 @@ I'm Armen✌️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
 </p>
-
