@@ -24,12 +24,9 @@ I'm Armen✌️
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
 </p>
 
-<h2 align="center">🍩 My Programming Languages</h2>
+
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armen5570&layout=donut&theme=tokyonight&langs_count=8&hide_border=true"
-    width="420"
-    alt="Top Programming Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armen5570&layout=donut&theme=tokyonight&langs_count=8"
+       width="450">
 </p>
