@@ -23,14 +23,3 @@ I'm Armen✌️
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
 </p>
-<h2 align="center">🌍 VISITOR WORLD MAP</h2>
-
-<p align="center">
-  <a href="https://gitviewsmap.onrender.com/Armen5570">
-    <img
-      src="https://gitviewsmap.onrender.com/badge/Armen5570.svg"
-      alt="Visitor World Map"
-      width="100%"
-    />
-  </a>
-</p>
