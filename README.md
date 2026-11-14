@@ -24,8 +24,10 @@ I'm Armen✌️
   <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%">
 </p>
 
-<h2 align="center">🐍 My Contribution Snake</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Armen5570/Armen5570/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake">
+  <img
+    src="https://raw.githubusercontent.com/Armen5570/Armen5570/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Dark GitHub Contribution Snake"
+  >
 </p>
