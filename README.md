@@ -24,8 +24,3 @@ I'm Armen✌️
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://armen5570.github.io/3D-Globe/">
-    🌍 Explore My 3D Globe
-  </a>
-</p>
