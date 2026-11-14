@@ -17,7 +17,7 @@
   />
 
   <p align="center">
-  <img src="./rainbow-line.gif" width="100%">
+  <img src="./rainbow-line.gif" width="100%" border-radius: 10px;>
 </p>
 
 
