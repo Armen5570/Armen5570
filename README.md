@@ -25,6 +25,12 @@ I'm Armen✌️
 </p>
 
 
+<h2 align="center">📈 My GitHub Activity</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Armen5570&theme=tokyonight&no-frame=true&row=1&column=6" width="100%">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Armen5570&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
