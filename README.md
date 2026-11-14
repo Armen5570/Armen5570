@@ -17,9 +17,7 @@
   />
 
 </div>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=1&duration=1&pause=1&color=FF0000&width=1000&height=5&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=header&reversal=true" width="100%">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-32363F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
