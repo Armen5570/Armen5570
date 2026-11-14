@@ -23,3 +23,8 @@ I'm Armen✌️
 <p align="center">
   <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%">
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Armen5570&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
+</p>
