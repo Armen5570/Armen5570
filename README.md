@@ -17,7 +17,8 @@
   />
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%">
+<img src="https://img.shields.io/badge/-%20-ff0000?style=flat-square" /><img src="https://img.shields.io/badge/-%20-ff7f00?style=flat-square" /><img src="https://img.shields.io/badge/-%20-ffff00?style=flat-square" /><img src="https://img.shields.io/badge/-%20-00ff00?style=flat-square" /><img src="https://img.shields.io/badge/-%20-0000ff?style=flat-square" /><img src="https://img.shields.io/badge/-%20-8b00ff?style=flat-square" />
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-32363F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
