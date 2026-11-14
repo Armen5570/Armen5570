@@ -21,6 +21,5 @@ I'm Armen✌️
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%">
 </p>
-
