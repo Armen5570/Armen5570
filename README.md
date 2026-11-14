@@ -7,23 +7,6 @@
     alt="WEB / BACKEND DEVELOPER"
   />
 
-
-
-  <img
-    class="plus"
-    src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_T-Rex_Runner.gif"
-    width="50%"
-    alt="T-Rex Runner Animation"
-  />
-
-  <p align="center">
-  <img src="./rainbow-line.gif" width="100%" border-radius: 10px;>
-</p>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
-</p>
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-32363F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,3 +19,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
  
+
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
+</p>
+
+
