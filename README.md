@@ -24,9 +24,3 @@ I'm Armen✌️
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
 </p>
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armen5570&layout=donut&theme=tokyonight&langs_count=8"
-       width="450">
-</p>
