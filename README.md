@@ -34,13 +34,4 @@ I'm Armen✌️
 </p>
 
 
-<h2 align="center">🏙️ Contribution City</h2>
-
-<p align="center">
-  <img
-    src="./assets/contribution-city.svg"
-    width="100%"
-    alt="My GitHub Contribution City"
-  />
-</p>
 
