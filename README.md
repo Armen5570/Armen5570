@@ -33,15 +33,14 @@ I'm Armen✌️
   >
 </p>
 
-<h2 align="center">🏙️ Contribution City</h2>
 
+<h2 align="center">🏙️ Contribution City</h2>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Armen5570/Armen5570/main/assets/contribution-city.svg"
+    src="./assets/contribution-city.svg"
     width="100%"
-    alt="GitHub Contribution City"
-  >
+    alt="My GitHub Contribution City"
+  />
 </p>
-
 
