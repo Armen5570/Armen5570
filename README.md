@@ -34,12 +34,4 @@ I'm Armen✌️
 </p>
 
 
-<h2 align="center">📈 GitHub Activity Graph</h2>
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/39D353/Armen5570"
-    alt="Armen5570 GitHub Contributions"
-    width="100%"
-  />
-</p>
