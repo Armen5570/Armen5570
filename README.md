@@ -32,3 +32,9 @@ I'm Armen✌️
     alt="Dark GitHub Contribution Snake"
   >
 </p>
+
+<h2 align="center">📈 GitHub Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Armen5570&theme=react-dark&hide_border=true&area=true" width="100%">
+</p>
