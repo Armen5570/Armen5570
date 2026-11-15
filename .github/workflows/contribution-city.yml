@@ -1,0 +1,37 @@
+
+name: Update Contribution City
+
+on:
+  schedule:
+    - cron: "23 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Contribution City
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: Armen5570
+        run: python scripts/contribution_city.py
+
+      - name: Commit generated city
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-city.svg
+          git diff --cached --quiet || git commit -m "Update Contribution City"
+          git push
