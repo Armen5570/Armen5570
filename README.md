@@ -33,5 +33,13 @@ I'm Armen✌️
   >
 </p>
 
+<h2 align="center">📈 GitHub Activity Graph</h2>
 
+<p align="center">
+  <img
+    src="https://github-contributions.vercel.app/api/v1/Armen5570"
+    width="100%"
+    alt="GitHub Contributions"
+  />
+</p>
 
