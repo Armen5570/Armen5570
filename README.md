@@ -34,14 +34,3 @@ I'm Armen✌️
 </p>
 
 
-
-<h2 align="center">🏔️ Contribution Mountains</h2>
-
-<p align="center">
-  <img
-    src="./assets/contribution-mountains.svg"
-    width="100%"
-    alt="Contribution Mountains"
-  />
-</p>
-
