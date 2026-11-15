@@ -1,0 +1,4845 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="520"
+     viewBox="0 0 1200 520">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#07152d"/>
+    <stop offset="100%" stop-color="#142b4c"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#63e6ff"/>
+    <stop offset="100%" stop-color="#2563eb"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<rect width="100%" height="100%" rx="18" fill="url(#sky)"/>
+
+<text x="600" y="48" text-anchor="middle"
+      font-family="Arial" font-size="26"
+      font-weight="bold" fill="#ffffff">
+  CONTRIBUTION CITY
+</text>
+
+<text x="600" y="75" text-anchor="middle"
+      font-family="Arial" font-size="13" fill="#9fb8d8">
+  Armen5570 · LAST 365 DAYS
+</text>
+
+<circle cx="31" cy="100" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="228" cy="183" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="425" cy="266" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="622" cy="79" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="819" cy="162" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="1016" cy="245" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="13" cy="58" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="210" cy="141" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="407" cy="224" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="604" cy="37" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="801" cy="120" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="998" cy="203" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="1195" cy="16" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="192" cy="99" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="389" cy="182" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="586" cy="265" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="783" cy="78" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="980" cy="161" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="1177" cy="244" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="174" cy="57" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="371" cy="140" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="568" cy="223" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="765" cy="36" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="962" cy="119" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="1159" cy="202" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="156" cy="15" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="353" cy="98" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="550" cy="181" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="747" cy="264" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="944" cy="77" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="1141" cy="160" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="138" cy="243" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="335" cy="56" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="532" cy="139" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="729" cy="222" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="926" cy="35" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="1123" cy="118" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="120" cy="201" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="317" cy="14" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="514" cy="97" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="711" cy="180" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="908" cy="263" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="1105" cy="76" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="102" cy="159" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="299" cy="242" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="496" cy="55" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="693" cy="138" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="890" cy="221" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="1087" cy="34" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="84" cy="117" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="281" cy="200" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="478" cy="13" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="675" cy="96" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="872" cy="179" r="1.4" fill="#b8d9ff" opacity=".65"/>
+<circle cx="1069" cy="262" r="1.4" fill="#b8d9ff" opacity=".65"/>
+
+<path d="M600 105 L1120 365 L600 500 L80 365 Z"
+      fill="#163b57" stroke="#2c6680" stroke-width="2"/>
+
+
+    <g>
+      <path d="M600 147 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M600 147 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M612 153 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M605 159 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-16: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M624 160 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M624 160 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M636 166 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M629 172 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-17: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M648 173 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M648 173 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M660 179 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M653 185 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-18: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M672 186 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M672 186 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M684 192 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M677 198 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-19: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M696 199 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M696 199 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M708 205 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M701 211 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-20: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M720 212 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M720 212 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M732 218 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M725 224 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-21: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M744 225 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M744 225 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M756 231 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M749 237 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-22: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M768 238 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M768 238 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M780 244 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M773 250 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-23: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M792 251 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M792 251 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M804 257 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M797 263 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-24: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M816 264 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M816 264 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M828 270 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M821 276 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-25: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M840 277 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M840 277 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M852 283 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M845 289 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-26: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M864 290 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M864 290 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M876 296 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M869 302 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-27: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M888 303 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M888 303 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M900 309 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M893 315 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-28: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M912 316 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M912 316 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M924 322 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M917 328 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-29: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M936 329 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M936 329 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M948 335 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M941 341 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-11-30: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M960 342 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M960 342 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M972 348 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M965 354 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-01: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M984 355 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M984 355 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M996 361 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M989 367 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-02: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1008 368 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1008 368 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1020 374 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1013 380 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-03: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1032 381 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1032 381 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1044 387 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1037 393 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-04: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1056 394 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1056 394 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1068 400 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1061 406 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-05: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1080 407 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1080 407 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1092 413 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1085 419 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-06: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1104 420 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1104 420 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1116 426 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1109 432 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-07: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1128 433 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1128 433 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1140 439 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1133 445 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-08: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1152 446 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1152 446 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1164 452 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1157 458 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-09: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1176 459 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1176 459 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1188 465 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1181 471 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-10: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1200 472 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1200 472 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1212 478 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1205 484 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-11: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1224 485 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1224 485 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1236 491 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1229 497 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-12: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1248 498 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1248 498 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1260 504 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1253 510 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-13: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1272 511 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1272 511 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1284 517 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1277 523 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-14: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1296 524 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1296 524 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1308 530 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1301 536 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-15: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1320 537 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1320 537 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1332 543 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1325 549 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-16: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1344 550 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1344 550 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1356 556 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1349 562 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-17: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1368 563 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1368 563 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1380 569 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1373 575 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-18: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1392 576 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1392 576 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1404 582 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1397 588 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-19: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1416 589 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1416 589 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1428 595 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1421 601 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-20: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1440 602 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1440 602 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1452 608 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1445 614 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-21: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1464 615 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1464 615 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1476 621 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1469 627 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-22: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1488 628 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1488 628 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1500 634 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1493 640 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-23: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1512 641 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1512 641 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1524 647 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1517 653 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-24: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1536 654 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1536 654 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1548 660 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1541 666 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-25: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1560 667 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1560 667 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1572 673 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1565 679 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-26: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1584 680 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1584 680 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1596 686 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1589 692 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-27: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1608 693 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1608 693 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1620 699 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1613 705 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-28: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1632 706 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1632 706 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1644 712 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1637 718 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-29: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1656 719 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1656 719 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1668 725 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1661 731 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-30: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1680 732 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1680 732 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1692 738 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1685 744 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2025-12-31: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1704 745 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1704 745 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1716 751 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1709 757 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-01: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1728 758 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1728 758 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1740 764 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1733 770 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-02: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1752 771 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1752 771 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1764 777 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1757 783 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-03: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1776 784 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1776 784 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1788 790 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1781 796 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-04: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1800 797 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1800 797 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1812 803 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1805 809 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-05: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1824 810 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1824 810 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1836 816 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1829 822 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-06: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M576 160 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M576 160 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M588 166 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M581 172 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-07: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M600 173 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M600 173 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M612 179 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M605 185 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-08: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M624 186 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M624 186 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M636 192 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M629 198 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-09: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M648 199 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M648 199 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M660 205 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M653 211 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-10: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M672 212 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M672 212 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M684 218 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M677 224 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-11: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M696 225 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M696 225 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M708 231 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M701 237 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-12: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M720 238 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M720 238 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M732 244 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M725 250 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-13: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M744 251 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M744 251 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M756 257 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M749 263 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-14: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M768 264 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M768 264 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M780 270 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M773 276 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-15: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M792 277 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M792 277 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M804 283 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M797 289 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-16: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M816 290 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M816 290 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M828 296 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M821 302 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-17: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M840 303 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M840 303 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M852 309 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M845 315 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-18: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M864 316 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M864 316 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M876 322 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M869 328 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-19: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M888 329 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M888 329 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M900 335 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M893 341 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-20: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M912 342 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M912 342 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M924 348 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M917 354 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-21: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M936 355 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M936 355 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M948 361 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M941 367 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-22: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M960 368 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M960 368 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M972 374 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M965 380 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-23: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M984 381 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M984 381 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M996 387 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M989 393 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-24: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1008 394 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1008 394 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1020 400 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1013 406 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-25: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1032 407 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1032 407 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1044 413 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1037 419 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-26: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1056 420 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1056 420 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1068 426 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1061 432 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-27: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1080 433 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1080 433 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1092 439 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1085 445 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-28: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1104 446 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1104 446 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1116 452 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1109 458 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-29: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1128 459 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1128 459 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1140 465 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1133 471 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-30: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1152 472 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1152 472 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1164 478 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1157 484 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-01-31: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1176 485 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1176 485 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1188 491 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1181 497 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-01: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1200 498 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1200 498 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1212 504 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1205 510 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-02: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1224 511 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1224 511 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1236 517 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1229 523 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-03: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1248 524 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1248 524 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1260 530 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1253 536 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-04: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1272 537 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1272 537 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1284 543 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1277 549 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-05: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1296 550 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1296 550 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1308 556 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1301 562 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-06: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1320 563 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1320 563 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1332 569 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1325 575 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-07: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1344 576 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1344 576 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1356 582 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1349 588 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-08: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1368 589 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1368 589 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1380 595 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1373 601 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-09: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1392 602 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1392 602 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1404 608 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1397 614 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-10: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1416 615 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1416 615 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1428 621 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1421 627 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-11: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1440 628 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1440 628 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1452 634 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1445 640 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-12: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1464 641 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1464 641 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1476 647 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1469 653 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-13: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1488 654 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1488 654 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1500 660 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1493 666 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-14: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1512 667 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1512 667 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1524 673 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1517 679 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-15: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1536 680 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1536 680 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1548 686 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1541 692 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-16: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1560 693 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1560 693 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1572 699 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1565 705 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-17: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1584 706 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1584 706 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1596 712 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1589 718 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-18: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1608 719 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1608 719 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1620 725 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1613 731 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-19: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1632 732 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1632 732 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1644 738 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1637 744 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-20: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1656 745 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1656 745 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1668 751 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1661 757 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-21: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1680 758 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1680 758 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1692 764 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1685 770 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-22: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1704 771 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1704 771 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1716 777 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1709 783 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-23: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1728 784 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1728 784 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1740 790 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1733 796 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-24: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1752 797 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1752 797 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1764 803 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1757 809 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-25: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1776 810 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1776 810 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1788 816 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1781 822 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-26: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1800 823 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1800 823 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1812 829 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1805 835 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-27: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M552 173 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M552 173 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M564 179 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M557 185 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-02-28: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M576 186 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M576 186 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M588 192 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M581 198 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-01: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M600 199 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M600 199 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M612 205 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M605 211 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-02: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M624 212 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M624 212 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M636 218 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M629 224 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-03: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M648 225 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M648 225 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M660 231 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M653 237 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-04: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M672 238 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M672 238 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M684 244 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M677 250 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-05: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M696 251 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M696 251 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M708 257 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M701 263 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-06: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M720 264 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M720 264 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M732 270 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M725 276 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-07: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M744 277 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M744 277 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M756 283 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M749 289 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-08: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M768 290 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M768 290 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M780 296 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M773 302 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-09: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M792 303 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M792 303 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M804 309 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M797 315 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-10: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M816 316 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M816 316 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M828 322 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M821 328 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-11: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M840 329 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M840 329 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M852 335 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M845 341 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-12: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M864 342 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M864 342 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M876 348 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M869 354 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-13: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M888 355 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M888 355 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M900 361 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M893 367 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-14: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M912 368 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M912 368 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M924 374 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M917 380 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-15: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M936 381 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M936 381 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M948 387 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M941 393 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-16: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M960 394 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M960 394 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M972 400 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M965 406 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-17: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M984 407 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M984 407 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M996 413 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M989 419 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-18: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1008 420 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1008 420 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1020 426 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1013 432 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-19: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1032 433 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1032 433 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1044 439 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1037 445 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-20: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1056 446 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1056 446 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1068 452 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1061 458 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-21: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1080 459 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1080 459 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1092 465 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1085 471 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-22: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1104 472 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1104 472 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1116 478 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1109 484 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-23: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1128 485 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1128 485 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1140 491 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1133 497 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-24: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1152 498 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1152 498 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1164 504 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1157 510 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-25: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1176 511 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1176 511 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1188 517 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1181 523 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-26: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1200 524 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1200 524 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1212 530 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1205 536 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-27: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1224 537 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1224 537 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1236 543 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1229 549 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-28: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1248 550 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1248 550 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1260 556 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1253 562 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-29: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1272 563 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1272 563 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1284 569 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1277 575 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-30: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1296 576 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1296 576 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1308 582 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1301 588 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-03-31: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1320 589 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1320 589 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1332 595 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1325 601 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-01: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1344 602 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1344 602 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1356 608 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1349 614 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-02: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1368 615 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1368 615 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1380 621 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1373 627 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-03: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1392 628 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1392 628 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1404 634 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1397 640 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-04: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1416 641 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1416 641 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1428 647 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1421 653 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-05: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1440 654 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1440 654 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1452 660 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1445 666 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-06: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1464 667 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1464 667 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1476 673 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1469 679 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-07: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1488 680 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1488 680 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1500 686 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1493 692 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-08: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1512 693 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1512 693 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1524 699 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1517 705 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-09: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1536 706 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1536 706 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1548 712 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1541 718 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-10: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1560 719 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1560 719 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1572 725 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1565 731 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-11: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1584 732 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1584 732 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1596 738 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1589 744 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-12: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1608 745 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1608 745 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1620 751 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1613 757 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-13: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1632 758 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1632 758 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1644 764 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1637 770 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-14: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1656 771 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1656 771 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1668 777 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1661 783 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-15: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1680 784 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1680 784 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1692 790 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1685 796 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-16: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1704 797 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1704 797 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1716 803 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1709 809 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-17: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1728 810 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1728 810 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1740 816 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1733 822 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-18: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1752 823 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1752 823 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1764 829 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1757 835 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-19: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1776 836 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1776 836 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1788 842 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1781 848 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-20: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M528 186 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M528 186 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M540 192 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M533 198 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-21: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M552 199 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M552 199 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M564 205 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M557 211 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-22: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M576 212 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M576 212 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M588 218 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M581 224 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-23: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M600 225 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M600 225 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M612 231 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M605 237 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-24: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M624 238 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M624 238 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M636 244 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M629 250 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-25: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M648 251 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M648 251 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M660 257 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M653 263 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-26: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M672 264 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M672 264 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M684 270 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M677 276 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-27: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M696 277 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M696 277 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M708 283 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M701 289 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-28: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M720 290 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M720 290 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M732 296 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M725 302 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-29: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M744 303 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M744 303 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M756 309 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M749 315 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-04-30: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M768 316 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M768 316 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M780 322 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M773 328 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-01: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M792 329 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M792 329 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M804 335 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M797 341 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-02: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M816 342 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M816 342 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M828 348 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M821 354 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-03: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M840 355 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M840 355 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M852 361 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M845 367 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-04: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M864 368 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M864 368 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M876 374 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M869 380 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-05: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M888 381 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M888 381 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M900 387 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M893 393 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-06: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M912 394 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M912 394 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M924 400 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M917 406 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-07: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M936 407 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M936 407 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M948 413 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M941 419 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-08: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M960 420 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M960 420 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M972 426 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M965 432 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-09: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M984 433 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M984 433 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M996 439 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M989 445 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-10: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1008 446 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1008 446 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1020 452 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1013 458 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-11: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1032 459 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1032 459 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1044 465 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1037 471 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-12: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1056 472 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1056 472 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1068 478 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1061 484 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-13: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1080 485 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1080 485 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1092 491 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1085 497 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-14: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1104 498 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1104 498 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1116 504 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1109 510 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-15: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1128 511 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1128 511 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1140 517 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1133 523 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-16: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1152 524 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1152 524 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1164 530 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1157 536 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-17: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1176 537 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1176 537 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1188 543 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1181 549 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-18: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1200 547.7704590818363 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1200 547.7704590818363 l12 6 v5.229540918163672 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1212 553.7704590818363 l12 -6 v5.229540918163672 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1205 559.7704590818363 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-19: 2 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1224 563 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1224 563 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1236 569 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1229 575 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-20: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1248 576 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1248 576 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1260 582 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1253 588 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-21: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1272 589 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1272 589 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1284 595 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1277 601 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-22: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1296 599.4261477045908 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1296 599.4261477045908 l12 6 v5.573852295409182 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1308 605.4261477045908 l12 -6 v5.573852295409182 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1301 611.4261477045908 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-23: 5 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1320 612.6556886227545 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1320 612.6556886227545 l12 6 v5.344311377245509 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1332 618.6556886227545 l12 -6 v5.344311377245509 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1325 624.6556886227545 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-24: 3 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1344 628 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1344 628 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1356 634 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1349 640 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-25: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1368 641 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1368 641 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1380 647 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1373 653 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-26: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1392 654 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1392 654 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1404 660 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1397 666 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-27: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1416 667 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1416 667 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1428 673 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1421 679 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-28: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1440 680 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1440 680 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1452 686 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1445 692 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-29: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1464 693 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1464 693 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1476 699 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1469 705 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-30: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1488 706 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1488 706 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1500 712 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1493 718 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-05-31: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1512 719 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1512 719 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1524 725 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1517 731 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-01: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1536 732 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1536 732 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1548 738 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1541 744 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-02: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1560 745 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1560 745 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1572 751 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1565 757 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-03: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1584 758 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1584 758 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1596 764 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1589 770 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-04: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1608 771 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1608 771 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1620 777 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1613 783 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-05: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1632 784 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1632 784 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1644 790 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1637 796 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-06: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1656 797 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1656 797 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1668 803 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1661 809 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-07: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1680 810 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1680 810 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1692 816 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1685 822 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-08: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1704 823 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1704 823 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1716 829 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1709 835 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-09: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1728 836 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1728 836 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1740 842 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1733 848 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-10: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1752 849 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1752 849 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1764 855 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1757 861 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-11: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M504 199 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M504 199 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M516 205 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M509 211 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-12: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M528 212 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M528 212 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M540 218 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M533 224 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-13: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M552 225 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M552 225 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M564 231 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M557 237 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-14: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M576 238 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M576 238 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M588 244 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M581 250 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-15: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M600 251 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M600 251 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M612 257 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M605 263 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-16: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M624 264 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M624 264 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M636 270 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M629 276 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-17: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M648 277 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M648 277 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M660 283 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M653 289 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-18: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M672 290 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M672 290 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M684 296 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M677 302 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-19: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M696 303 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M696 303 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M708 309 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M701 315 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-20: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M720 316 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M720 316 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M732 322 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M725 328 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-21: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M744 329 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M744 329 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M756 335 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M749 341 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-22: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M768 342 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M768 342 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M780 348 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M773 354 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-23: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M792 355 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M792 355 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M804 361 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M797 367 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-24: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M816 368 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M816 368 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M828 374 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M821 380 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-25: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M840 381 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M840 381 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M852 387 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M845 393 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-26: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M864 394 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M864 394 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M876 400 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M869 406 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-27: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M888 407 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M888 407 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M900 413 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M893 419 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-28: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M912 420 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M912 420 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M924 426 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M917 432 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-29: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M936 433 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M936 433 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M948 439 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M941 445 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-06-30: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M960 446 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M960 446 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M972 452 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M965 458 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-01: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M984 459 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M984 459 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M996 465 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M989 471 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-02: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1008 472 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1008 472 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1020 478 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1013 484 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-03: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1032 485 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1032 485 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1044 491 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1037 497 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-04: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1056 498 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1056 498 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1068 504 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1061 510 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-05: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1080 511 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1080 511 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1092 517 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1085 523 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-06: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1104 524 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1104 524 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1116 530 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1109 536 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-07: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1128 537 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1128 537 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1140 543 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1133 549 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-08: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1152 550 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1152 550 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1164 556 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1157 562 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-09: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1176 563 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1176 563 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1188 569 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1181 575 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-10: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1200 576 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1200 576 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1212 582 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1205 588 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-11: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1224 589 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1224 589 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1236 595 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1229 601 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-12: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1248 602 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1248 602 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1260 608 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1253 614 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-13: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1272 615 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1272 615 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1284 621 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1277 627 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-14: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1296 628 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1296 628 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1308 634 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1301 640 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-15: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1320 641 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1320 641 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1332 647 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1325 653 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-16: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1344 654 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1344 654 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1356 660 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1349 666 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-17: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1368 667 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1368 667 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1380 673 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1373 679 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-18: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1392 680 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1392 680 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1404 686 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1397 692 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-19: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1416 693 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1416 693 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1428 699 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1421 705 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-20: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1440 706 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1440 706 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1452 712 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1445 718 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-21: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1464 719 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1464 719 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1476 725 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1469 731 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-22: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1488 732 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1488 732 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1500 738 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1493 744 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-23: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1512 745 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1512 745 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1524 751 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1517 757 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-24: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1536 758 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1536 758 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1548 764 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1541 770 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-25: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1560 771 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1560 771 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1572 777 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1565 783 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-26: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1584 784 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1584 784 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1596 790 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1589 796 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-27: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1608 797 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1608 797 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1620 803 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1613 809 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-28: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1632 810 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1632 810 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1644 816 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1637 822 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-29: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1656 823 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1656 823 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1668 829 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1661 835 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-30: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1680 836 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1680 836 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1692 842 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1685 848 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-07-31: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1704 849 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1704 849 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1716 855 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1709 861 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-01: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1728 862 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1728 862 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1740 868 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1733 874 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-02: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M480 212 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M480 212 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M492 218 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M485 224 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-03: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M504 225 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M504 225 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M516 231 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M509 237 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-04: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M528 238 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M528 238 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M540 244 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M533 250 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-05: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M552 248.88522954091817 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M552 248.88522954091817 l12 6 v5.114770459081837 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M564 254.88522954091817 l12 -6 v5.114770459081837 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M557 260.8852295409182 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-06: 1 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M576 264 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M576 264 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M588 270 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M581 276 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-07: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M600 277 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M600 277 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M612 283 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M605 289 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-08: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M624 290 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M624 290 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M636 296 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M629 302 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-09: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M648 303 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M648 303 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M660 309 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M653 315 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-10: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M672 316 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M672 316 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M684 322 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M677 328 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-11: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M696 329 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M696 329 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M708 335 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M701 341 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-12: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M720 342 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M720 342 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M732 348 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M725 354 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-13: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M744 355 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M744 355 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M756 361 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M749 367 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-14: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M768 368 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M768 368 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M780 374 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M773 380 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-15: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M792 381 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M792 381 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M804 387 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M797 393 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-16: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M816 394 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M816 394 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M828 400 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M821 406 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-17: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M840 407 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M840 407 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M852 413 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M845 419 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-18: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M864 420 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M864 420 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M876 426 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M869 432 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-19: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M888 433 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M888 433 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M900 439 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M893 445 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-20: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M912 446 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M912 446 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M924 452 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M917 458 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-21: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M936 459 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M936 459 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M948 465 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M941 471 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-22: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M960 472 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M960 472 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M972 478 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M965 484 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-23: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M984 485 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M984 485 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M996 491 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M989 497 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-24: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1008 498 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1008 498 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1020 504 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1013 510 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-25: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1032 511 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1032 511 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1044 517 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1037 523 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-26: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1056 524 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1056 524 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1068 530 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1061 536 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-27: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1080 537 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1080 537 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1092 543 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1085 549 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-28: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1104 550 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1104 550 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1116 556 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1109 562 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-29: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1128 563 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1128 563 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1140 569 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1133 575 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-30: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1152 576 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1152 576 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1164 582 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1157 588 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-08-31: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1176 589 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1176 589 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1188 595 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1181 601 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-01: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1200 602 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1200 602 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1212 608 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1205 614 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-02: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1224 615 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1224 615 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1236 621 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1229 627 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-03: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1248 628 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1248 628 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1260 634 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1253 640 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-04: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1272 641 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1272 641 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1284 647 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1277 653 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-05: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1296 654 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1296 654 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1308 660 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1301 666 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-06: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1320 667 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1320 667 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1332 673 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1325 679 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-07: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1344 680 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1344 680 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1356 686 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1349 692 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-08: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1368 693 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1368 693 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1380 699 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1373 705 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-09: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1392 706 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1392 706 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1404 712 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1397 718 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-10: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1416 719 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1416 719 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1428 725 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1421 731 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-11: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1440 732 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1440 732 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1452 738 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1445 744 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-12: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1464 745 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1464 745 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1476 751 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1469 757 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-13: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1488 758 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1488 758 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1500 764 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1493 770 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-14: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1512 771 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1512 771 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1524 777 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1517 783 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-15: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1536 784 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1536 784 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1548 790 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1541 796 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-16: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1560 797 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1560 797 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1572 803 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1565 809 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-17: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1584 810 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1584 810 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1596 816 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1589 822 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-18: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1608 823 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1608 823 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1620 829 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1613 835 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-19: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1632 836 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1632 836 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1644 842 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1637 848 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-20: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1656 849 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1656 849 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1668 855 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1661 861 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-21: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1680 862 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1680 862 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1692 868 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1685 874 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-22: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1704 875 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1704 875 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1716 881 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1709 887 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-23: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M456 225 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M456 225 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M468 231 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M461 237 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-24: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M480 238 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M480 238 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M492 244 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M485 250 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-25: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M504 251 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M504 251 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M516 257 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M509 263 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-26: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M528 264 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M528 264 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M540 270 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M533 276 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-27: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M552 277 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M552 277 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M564 283 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M557 289 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-28: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M576 290 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M576 290 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M588 296 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M581 302 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-29: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M600 303 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M600 303 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M612 309 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M605 315 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-09-30: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M624 316 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M624 316 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M636 322 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M629 328 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-01: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M648 329 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M648 329 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M660 335 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M653 341 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-02: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M672 342 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M672 342 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M684 348 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M677 354 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-03: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M696 355 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M696 355 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M708 361 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M701 367 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-04: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M720 368 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M720 368 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M732 374 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M725 380 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-05: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M744 381 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M744 381 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M756 387 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M749 393 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-06: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M768 394 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M768 394 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M780 400 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M773 406 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-07: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M792 407 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M792 407 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M804 413 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M797 419 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-08: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M816 420 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M816 420 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M828 426 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M821 432 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-09: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M840 433 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M840 433 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M852 439 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M845 445 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-10: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M864 446 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M864 446 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M876 452 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M869 458 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-11: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M888 459 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M888 459 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M900 465 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M893 471 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-12: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M912 472 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M912 472 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M924 478 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M917 484 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-13: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M936 485 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M936 485 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M948 491 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M941 497 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-14: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M960 498 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M960 498 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M972 504 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M965 510 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-15: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M984 507.50798403193613 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M984 507.50798403193613 l12 6 v6.492015968063872 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M996 513.5079840319361 l12 -6 v6.492015968063872 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M989 519.5079840319361 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-16: 13 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1008 518.6716566866268 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1008 518.6716566866268 l12 6 v8.328343313373253 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1020 524.6716566866268 l12 -6 v8.328343313373253 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1013 530.6716566866268 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-17: 29 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1032 533.5079840319361 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1032 533.5079840319361 l12 6 v6.492015968063872 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1044 539.5079840319361 l12 -6 v6.492015968063872 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1037 545.5079840319361 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-18: 13 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1056 547.6556886227545 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1056 547.6556886227545 l12 6 v5.344311377245509 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1068 553.6556886227545 l12 -6 v5.344311377245509 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1061 559.6556886227545 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-19: 3 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1080 560.6556886227545 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1080 560.6556886227545 l12 6 v5.344311377245509 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1092 566.6556886227545 l12 -6 v5.344311377245509 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1085 572.6556886227545 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-20: 3 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1104 573.4261477045908 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1104 573.4261477045908 l12 6 v5.573852295409182 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1116 579.4261477045908 l12 -6 v5.573852295409182 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1109 585.4261477045908 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-21: 5 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1128 586.8852295409182 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1128 586.8852295409182 l12 6 v5.114770459081837 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1140 592.8852295409182 l12 -6 v5.114770459081837 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1133 598.8852295409182 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-22: 1 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1152 602 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1152 602 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1164 608 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1157 614 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-23: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1176 610.5898203592815 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1176 610.5898203592815 l12 6 v7.410179640718563 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1188 616.5898203592815 l12 -6 v7.410179640718563 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1181 622.5898203592815 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-24: 21 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1200 623.0159680638723 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1200 623.0159680638723 l12 6 v7.984031936127744 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1212 629.0159680638723 l12 -6 v7.984031936127744 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1205 635.0159680638723 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-25: 26 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1224 638.7704590818363 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1224 638.7704590818363 l12 6 v5.229540918163672 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1236 644.7704590818363 l12 -6 v5.229540918163672 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1229 650.7704590818363 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-26: 2 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1248 654 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1248 654 l12 6 v3 l-12 -6 Z"
+            fill="#24465e"/>
+      <path d="M1260 660 l12 -6 v3 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1253 666 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-27: 0 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1272 664.1966067864272 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1272 664.1966067864272 l12 6 v5.803393213572854 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1284 670.1966067864272 l12 -6 v5.803393213572854 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1277 676.1966067864272 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-28: 7 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1296 677.1966067864272 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1296 677.1966067864272 l12 6 v5.803393213572854 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1308 683.1966067864272 l12 -6 v5.803393213572854 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1301 689.1966067864272 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-29: 7 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1320 689.0489021956088 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1320 689.0489021956088 l12 6 v6.9510978043912175 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1332 695.0489021956088 l12 -6 v6.9510978043912175 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1325 701.0489021956088 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-30: 17 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1344 701.8193612774451 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1344 701.8193612774451 l12 6 v7.180638722554891 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1356 707.8193612774451 l12 -6 v7.180638722554891 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1349 713.8193612774451 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-10-31: 19 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1368 603.1477045908184 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1368 603.1477045908184 l12 6 v118.85229540918164 l-12 -6 Z"
+            fill="#36d399"/>
+      <path d="M1380 609.1477045908184 l12 -6 v118.85229540918164 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1373 615.1477045908184 v103.85229540918164"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-01: 992 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1392 662.5149700598803 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1392 662.5149700598803 l12 6 v72.48502994011976 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1404 668.5149700598803 l12 -6 v72.48502994011976 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1397 674.5149700598803 v57.48502994011976"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-02: 588 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1416 628.0 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1416 628.0 l12 6 v120.0 l-12 -6 Z"
+            fill="#36d399"/>
+      <path d="M1428 634.0 l12 -6 v120.0 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1421 640.0 v105.0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-03: 1002 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1440 687.4820359281437 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1440 687.4820359281437 l12 6 v73.51796407185628 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1452 693.4820359281437 l12 -6 v73.51796407185628 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1445 699.4820359281437 v58.517964071856284"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-04: 597 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1464 762.3433133732535 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1464 762.3433133732535 l12 6 v11.656686626746508 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1476 768.3433133732535 l12 -6 v11.656686626746508 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1469 774.3433133732535 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-05: 58 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1488 759.7345309381237 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1488 759.7345309381237 l12 6 v27.26546906187625 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1500 765.7345309381237 l12 -6 v27.26546906187625 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1493 771.7345309381237 v12.26546906187625"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-06: 194 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1512 733.7125748502995 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1512 733.7125748502995 l12 6 v66.2874251497006 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1524 739.7125748502995 l12 -6 v66.2874251497006 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1517 745.7125748502995 v51.287425149700596"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-07: 534 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1536 792.3912175648702 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1536 792.3912175648702 l12 6 v20.60878243512974 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1548 798.3912175648702 l12 -6 v20.60878243512974 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1541 804.3912175648702 v5.60878243512974"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-08: 136 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1560 820.8852295409182 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1560 820.8852295409182 l12 6 v5.114770459081837 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1572 826.8852295409182 l12 -6 v5.114770459081837 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1565 832.8852295409182 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-09: 1 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1584 822.9820359281437 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1584 822.9820359281437 l12 6 v16.017964071856287 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1596 828.9820359281437 l12 -6 v16.017964071856287 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1589 834.9820359281437 v1.0179640718562872"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-10: 96 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1608 818.7664670658683 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1608 818.7664670658683 l12 6 v33.23353293413173 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1620 824.7664670658683 l12 -6 v33.23353293413173 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1613 830.7664670658683 v18.23353293413173"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-11: 246 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1632 835.439121756487 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1632 835.439121756487 l12 6 v29.560878243512974 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1644 841.439121756487 l12 -6 v29.560878243512974 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1637 847.439121756487 v14.560878243512974"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-12: 214 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1656 809.9910179640718 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1656 809.9910179640718 l12 6 v68.00898203592814 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1668 815.9910179640718 l12 -6 v68.00898203592814 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1661 821.9910179640718 v53.00898203592814"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-13: 549 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M1680 885.311377245509 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M1680 885.311377245509 l12 6 v5.688622754491018 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M1692 891.311377245509 l12 -6 v5.688622754491018 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M1685 897.311377245509 v0"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-14: 6 contributions</title>
+    </g>
+    
+
+    <g>
+      <path d="M432 178.72954091816368 l12 -6 l12 6 l-12 6 Z"
+            fill="#a5f3fc" opacity=".95"/>
+      <path d="M432 178.72954091816368 l12 6 v62.27045908183633 l-12 -6 Z"
+            fill="#38bdf8"/>
+      <path d="M444 184.72954091816368 l12 -6 v62.27045908183633 l-12 6 Z"
+            fill="#155e75"/>
+      <path d="M437 190.72954091816368 v47.27045908183633"
+            stroke="#d1fae5" stroke-width="2" opacity=".5"/>
+      <title>2026-11-15: 499 contributions</title>
+    </g>
+    
+
+<text x="600" y="490" text-anchor="middle"
+      font-family="Arial" font-size="13" fill="#c8d9ed">
+  Total contributions: 5889
+</text>
+</svg>
