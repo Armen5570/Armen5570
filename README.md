@@ -33,8 +33,13 @@ I'm Armen✌️
   >
 </p>
 
+
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Armen5570&theme=react-dark&hide_border=true&area=true" width="100%">
+  <img
+    src="https://ghchart.rshah.org/39D353/Armen5570"
+    alt="Armen5570 GitHub Contributions"
+    width="100%"
+  />
 </p>
