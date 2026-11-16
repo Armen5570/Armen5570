@@ -35,7 +35,22 @@ I'm Armen✌️
 </p>
 
 
-<h2 align="center">📊 DEVELOPER SKILLS</h2>
+
+
+
+<p align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/zedfar/assets@main/public/svg/map/world.svg"
+    alt="World Map"
+    width="800"
+  />
+</p>
+
+<p align="center">
+  <i>Connecting developers through code.</i>
+</p>
+
+
 
 <p align="center">
   <img
