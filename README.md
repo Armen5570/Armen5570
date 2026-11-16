@@ -24,6 +24,9 @@ I'm Armen✌️
   <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%">
 </p>
 
+<p align="center">
+  <img src="assets/github-banner.png" width="100%" alt="Armen5570 GitHub Banner">
+</p>
 
 <p align="center">
   <img
