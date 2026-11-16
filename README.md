@@ -46,9 +46,7 @@ I'm Armen✌️
   />
 </p>
 
-<p align="center">
-  <i>Connecting developers through code.</i>
-</p>
+
 
 
 
