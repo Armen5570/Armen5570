@@ -35,4 +35,12 @@ I'm Armen✌️
 </p>
 
 
+<h2 align="center">📊 DEVELOPER SKILLS</h2>
 
+<p align="center">
+  <img
+    src="https://quickchart.io/chart?width=650&height=420&backgroundColor=%23111827&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22Python%22%2C%22Java%22%2C%22SQL%22%2C%22Shell%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Learning%20progress%20%28example%29%22%2C%22data%22%3A%5B70%2C65%2C55%2C45%2C35%2C50%2C40%5D%2C%22backgroundColor%22%3A%22rgba%280%2C220%2C180%2C0.18%29%22%2C%22borderColor%22%3A%22rgb%280%2C220%2C180%29%22%2C%22pointBackgroundColor%22%3A%22rgb%280%2C220%2C180%29%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22min%22%3A0%2C%22max%22%3A100%2C%22stepSize%22%3A20%2C%22backdropColor%22%3A%22rgba%280%2C0%2C0%2C0%29%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28120%2C140%2C160%2C0.25%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28120%2C140%2C160%2C0.35%29%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22fontSize%22%3A12%7D%7D%7D%7D"
+    alt="Developer Skills Radar Chart"
+    width="650"
+  />
+</p>
