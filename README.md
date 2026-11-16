@@ -1,4 +1,4 @@
-## Hi there <img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/94cd826a-c15d-4f5f-a7ea-62be305113d7" />
+## Hi there 👋
 
 I'm Armen✌️
 
