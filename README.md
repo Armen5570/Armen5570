@@ -49,11 +49,6 @@ I'm Armen✌️
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armen5570&theme=github_dark" width="100%" />
 </p>
 
-<h2 align="center">☕ Support My Open Source Work</h2>
-
-<p align="center">
-  If you enjoy my projects, consider supporting my work!
-</p>
 
 <p align="center">
   <a href="https://buymeacoffee.com/armen5570">
