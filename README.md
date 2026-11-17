@@ -44,5 +44,8 @@ I'm Armen✌️
   />
 </p>
 
+<h1 align="center">📊 GitHub Profile Summary Cards</h1>
 
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armen5570&theme=github_dark" width="100%" />
+</p>
