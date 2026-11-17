@@ -36,8 +36,6 @@ I'm Armen✌️
 
 
 
-
-
 <p align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/zedfar/assets@main/public/svg/map/world.svg"
