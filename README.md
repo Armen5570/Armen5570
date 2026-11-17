@@ -49,8 +49,16 @@ I'm Armen✌️
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armen5570&theme=github_dark" width="100%" />
 </p>
 
-<h1 align="center">⭐ Total GitHub Stars</h1>
+<h2 align="center">☕ Support My Open Source Work</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Armen5570/Taxes_Utilities?style=for-the-badge&logo=github&label=Taxes_Utilities" />
+  If you enjoy my projects, consider supporting my work!
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/armen5570">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+         width="220"
+         alt="Buy Me a Coffee" />
+  </a>
 </p>
