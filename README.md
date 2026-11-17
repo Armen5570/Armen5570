@@ -49,4 +49,10 @@ I'm Armen✌️
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armen5570&theme=github_dark" width="100%" />
 </p>
 
+<h1 align="center">⭐ My GitHub Stars</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Armen5570&show_icons=true&theme=github_dark&show=stars" />
+</p>
+
 
